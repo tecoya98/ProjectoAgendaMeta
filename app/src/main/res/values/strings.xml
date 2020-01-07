@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectoAgendaMeta</string>
+    <string name="TituloAgenda">Agenda</string>
+    <string name="TAgregar">Agregar</string>
+    <string name="tLista">Lista</string>
+    <string name="tElinimar">Eliminar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnInicio">Inicio</string>
+    <string name="btnEliminar">Eliminar</string>
+</resources>
